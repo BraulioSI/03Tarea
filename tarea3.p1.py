@@ -7,7 +7,7 @@ import numpy as n #este modulo es para trabajar con matrices como en matlab
 import matplotlib as mp
 
 
-
+mu=1.977
 N=n.power(10,6)  #numero de intervalos de integracion
 b=20*pi          #extremo final de integracion
 h=b/N            #paso de integracion
